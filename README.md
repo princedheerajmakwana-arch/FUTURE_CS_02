@@ -40,5 +40,5 @@ A professional Phishing Detection \& Awareness Report including phishing example
 
 \## Status
 
-🔄 In Progress
+🔄 complete
 
